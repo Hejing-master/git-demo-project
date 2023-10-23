@@ -13,4 +13,4 @@ hello android, hello vim
 hello android, hello vim
 hello android, hello vim
 hello android, hello vim
-hello android, hello vim
+hello android, hello vim hot-fit test
